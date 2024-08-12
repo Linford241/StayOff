@@ -1,0 +1,11 @@
+
+{
+    "default_applications": ["ecobank.dev/payment-manifest.json", 
+    "gcb.dev/payment-manifest.json",
+    "calbank.dev/payment-manifest.json",
+    "cbg.dev/payment-manifest.json",
+    "paypal.dev/payment-manifest.json",
+    "stripe.dev/payment-manifest.json"],
+
+    "supported_origins": ["list of third party payment apps implementing the same payment method"]
+}
